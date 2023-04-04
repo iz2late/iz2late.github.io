@@ -92,23 +92,36 @@
           <i class="fab fa-twitter" style="font-size:1.4rem;"></i>
         </a>
         {% endif %}
+           
         </div>
         <br>
 
       </header>
+    <style>
+      .hidden-widget {
+        display: none;
+      }
+    </style>
+
       <section>
 
       {{ content }}
     
-
+        
       {% if site.enable_footnote %}
       <p><small>Last updated in Apr, 2023.</small></p>
+        <div class="hidden-widget">
+          <a href="https://clustrmaps.com/site/1btzu" title="Visit tracker">
+            <img src="//www.clustrmaps.com/map_v2.png?d=9jPLSDrR4wQOLTaiyIwzhQnkL0s0KEpb6tmi10ItmOQ&cl=ffffff" />
+          </a>
+        </div>
+
       {% endif %}
-    <a href="https://clustrmaps.com/site/1aqnr"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=QwGb0h7iRnZ9ESrrsZAoe5v8MieBEA3ArP8J7-GpFL0&cl=ffffff" /></a>
+ 
+
       </section>
           
       <footer>
-      
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
