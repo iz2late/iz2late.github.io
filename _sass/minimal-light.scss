@@ -219,33 +219,10 @@ papertitle {
       width: 100%;
     }
 
-//     .image.avatar {
-//       border-radius: 100%;
-//     }
-
-//       .image.avatar:before {
-//         display: none;
-//       }
-
-//       .image.avatar img {
-//         border-radius: 100%;
-//         width: 45%;
-//         padding: 20px;
-//         // border: 1px solid #ddd;
-//         // padding: 3px;
-//         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
-//       }
 
         .image.avatar {
           border-radius: 0;
         }
-
-        // .image.avatar img {
-        //   border-radius: 0;
-        //   width: 100%;
-        //   height: auto;
-        //   padding: 0;
-        // }
 
         .image.avatar img {
           border: 1px solid #ddd;
@@ -489,6 +466,7 @@ footer {
   text-align:center;
 }
 
+
 @media print, screen and (max-width: 960px) {
 
   .pub-row {
@@ -529,11 +507,13 @@ footer {
   }
 
 
-   .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
-      }
+        .image.avatar img {
+          border: 1px solid #ddd;
+          box-sizing: border-box;
+          width: 30%;
+          height: auto;
+          padding: 0;
+        }
   #head1o2 {
     visibility: hidden;
   }
