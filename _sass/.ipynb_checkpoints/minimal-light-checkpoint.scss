@@ -565,11 +565,13 @@ footer {
     width:33%;
   }
 
-  .image.avatar img {
-      border-radius: 100%;
-      width: 95px;
-      padding:20px;
-  }
+        .image.avatar img {
+          border: 1px solid #ddd;
+          box-sizing: border-box;
+          width: 95px;
+          height: auto;
+          padding: 0;
+        }
   #head1o2 {
     visibility: hidden;
   }
