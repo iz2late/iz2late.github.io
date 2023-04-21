@@ -608,3 +608,24 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+
+.color-button {
+    background: transparent; /* Make the background transparent */
+    border-style: solid; /* Change border style to solid */
+    // border-color: #4B93DB; /* Set border color to the current background color */
+    border-width: 1px; /* Set border width */
+    border-radius: 10px;
+    color: #0D3361; /* Set the text color to the current background color */
+    font-weight: bold;
+    font-size: 12px;
+    font-style: italic; /* Make the text italic */
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 0px 5px 0 0;
+    cursor: pointer;
+    &:hover {
+        background: #4B93DB; /* Set hover background color */
+        color: white; /* Set hover text color to white */
+    }
+}
