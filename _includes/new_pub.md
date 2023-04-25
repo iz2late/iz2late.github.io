@@ -12,7 +12,7 @@
 		<i>NLP Power! The First Workshop on Efficient Benchmarking <strong>(ACL Workshop)</strong>, 2022.</i><br>
 	</li>
 	<li style="margin-bottom: 10px;">
-		<a href="https://ojs.aaai.org/index.php/AAAI/article/view/5536"><b>A Character-Centric Neural Model for Automated Story Generation</b></a><br>
+		<a href="https://ojs.aaai.org/index.php/AAAI/article/view/5536">A Character-Centric Neural Model for Automated Story Generation</a><br>
 		<b>Danyang Liu</b>, Juntao Li, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan<br>
 		<i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2020.</i><br>
 	</li>
