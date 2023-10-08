@@ -6,7 +6,7 @@
 
 
 <ul>
-  <li><strong>[Nov. 2022]</strong> Our blueprint-based visual storytelling paper is accepted to EMNLP 2023 (Findings)!</li>
+  <li><strong>[Oct. 2023]</strong> Our blueprint-based VIST paper is accepted to EMNLP 2023!</li>
   <li><strong>[Nov. 2022]</strong> Our paper about VIST-character dataset is accepted to AAAI 2023.</li>
   <li><strong>[Mar. 2022]</strong> Our strapline detection paper is accepted to NLP Power workshop of ACL 2022.</li>
 </ul>
