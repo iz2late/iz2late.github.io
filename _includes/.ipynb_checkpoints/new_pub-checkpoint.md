@@ -3,7 +3,7 @@
     	<li style="margin-bottom: 10px;">
 		<a href="https://arxiv.org/abs/2303.17647">Visual Storytelling with Question-Answer Plans</a><br>
 		<b>Danyang Liu</b>, Mirella Lapata, Frank Keller<br>
-		<i>the Conference on Empirical Methods in Natural Language Processing<strong>(EMNLP Findings)</strong>, 2023.</i><br>
+		<i>Empirical Methods in Natural Language Processing <strong>(EMNLP Findings)</strong>, 2023.</i><br>
             
         </li>
     

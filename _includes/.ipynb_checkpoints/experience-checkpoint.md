@@ -1,13 +1,13 @@
 ## Background
 
-<h4 style="margin:0 10px 5px;">Work Experience</h4>
+<!-- <h4 style="margin:0 10px 5px;">Work Experience</h4>
 
 <ul style="margin:0 0 5px;">
   <li style="line-height:25px">Research Intern at Huawei Edinburgh Research Centre, Summer 2021</li>
   <li style="line-height:25px">Research Intern at NLP Group at Peking Universtiy, Summer 2020</li>
 </ul>
 
-<h4 style="margin:0 10px 5px;">Education</h4>
+<h4 style="margin:0 10px 5px;">Education</h4> -->
 
 <ul style="margin:0 0 20px;">
         <li style="line-height:25px">

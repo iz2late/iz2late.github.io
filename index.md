@@ -14,4 +14,4 @@ My research interests lie at the intersection of language and vision. I am parti
 
 {% include_relative _includes/new_pub.md %}
 
-<!-- {% include_relative _includes/experience.md %} -->
+{% include_relative _includes/experience.md %}
