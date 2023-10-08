@@ -1,6 +1,13 @@
 ## Publications
 <ul>
     	<li style="margin-bottom: 10px;">
+		<a href="https://arxiv.org/abs/2303.17647">Visual Storytelling with Question-Answer Plans</a><br>
+		<b>Danyang Liu</b>, Mirella Lapata, Frank Keller<br>
+		<i>the Conference on Empirical Methods in Natural Language Processing<strong>(EMNLP Findings)</strong>, 2023.</i><br>
+            
+        </li>
+    
+    	<li style="margin-bottom: 10px;">
 		<a href="https://arxiv.org/abs/2303.17647">Detecting and Grounding Important Characters in Visual Stories</a><br>
 		<b>Danyang Liu</b> and Frank Keller<br>
 		<i>AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2023.</i> <a href="https://github.com/iz2late/VIST-Character"><div class="color-button">GitHub</div></a><br>
