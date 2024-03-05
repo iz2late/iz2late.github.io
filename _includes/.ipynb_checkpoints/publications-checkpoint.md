@@ -4,11 +4,27 @@
 <ol class="bibliography">
 
 <li>
+    
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/aaai2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2402.12545">TrustScore: Reference-Free Evaluation of LLM Response Trustworthiness</a></div>
+    <div class="author">Danna Zheng, <strong>Danyang Liu</strong>, Mirella Lapata, Jeff Z. Pan</div>
+    <div class="periodical"><em>Secure and Trustworthy Large Language Models Workshop <strong>(SeT-LLM @ ICLR)</strong>, 2024.</em></div>
+  </div>
+</div>
+    
+    
+    <div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/aaai2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICLR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
