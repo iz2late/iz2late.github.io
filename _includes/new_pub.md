@@ -1,6 +1,13 @@
 ## Publications
 <ul>
     	<li style="margin-bottom: 10px;">
+		<a href="https://arxiv.org/abs/2402.12545">TrustScore: Reference-Free Evaluation of LLM Response Trustworthiness</a><br>
+		Danna Zheng, <b>Danyang Liu</b>, Mirella Lapata, Jeff Z. Pan<br>
+		<i>Secure and Trustworthy Large Language Models Workshop <strong>(SeT-LLM @ ICLR)</strong>, 2024.</i><br>
+            
+        </li>
+   
+    	<li style="margin-bottom: 10px;">
 		<a href="https://arxiv.org/abs/2310.05295">Visual Storytelling with Question-Answer Plans</a><br>
 		<b>Danyang Liu</b>, Mirella Lapata, Frank Keller<br>
 		<i>Empirical Methods in Natural Language Processing <strong>(EMNLP Findings)</strong>, 2023.</i><br>
