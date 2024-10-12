@@ -1,6 +1,23 @@
+## Preprints
+<ul>
+
+    	<li style="margin-bottom: 10px;">
+		<a href="https://arxiv.org/">Detect, Disambiguate, and Translate: On-Demand Visual Reasoning for Multimodal Machine Translation with Large Vision-Language Models</a><br>
+		<b>Danyang Liu</b>, Fanjie Kong, Xiaohang Sun, Dhruva Patil, Avijit Vajpayee, Zhu Liu, Vimal Bhat, Najmeh Sadoughi<br>
+		<i><strong>Under Review</strong></i><br>
+            
+        </li>
+
+    	<li style="margin-bottom: 10px;">
+		<a href="https://arxiv.org/abs/2409.13555">Generating Visual Stories with Grounded and Coreferent Characters</a><br>
+		<b>Danyang Liu</b>, Mirella Lapata, Frank Keller<br>
+		<i><strong>Under Review</strong></i><br>
+            
+        </li>
+</ul>
 ## Publications
 <ul>
-    	<li style="margin-bottom: 10px;">
+		<li style="margin-bottom: 10px;">
 		<a href="https://arxiv.org/abs/2402.12545">TrustScore: Reference-Free Evaluation of LLM Response Trustworthiness</a><br>
 		Danna Zheng, <b>Danyang Liu</b>, Mirella Lapata, Jeff Z. Pan<br>
 		<i>Secure and Trustworthy Large Language Models Workshop <strong>(SeT-LLM @ ICLR)</strong>, 2024.</i><br>

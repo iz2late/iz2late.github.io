@@ -10,7 +10,7 @@ I am a Ph.D. student at the [UKRI CDT in NLP](https://nlp-cdt.ac.uk/) at [Univer
 My research interests lie at the intersection of language and vision. I am particularly passionate about controllable and explainable text generation that leverage visual input. By extending LLMs to process visual signals, I aim to bridge the gap between vision and language, contributing to the advancement of intelligent systems capable of seamlessly integrating text and imagery.
 
 
-{% include_relative _includes/news.md %}
+<!-- {% include_relative _includes/news.md %} -->
 
 {% include_relative _includes/new_pub.md %}
 
