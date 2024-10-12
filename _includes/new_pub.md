@@ -3,7 +3,7 @@
 
     	<li style="margin-bottom: 10px;">
 		<a href="https://arxiv.org/">Detect, Disambiguate, and Translate: On-Demand Visual Reasoning for Multimodal Machine Translation with Large Vision-Language Models</a><br>
-		<b>Danyang Liu</b>, Fanjie Kong, Xiaohang Sun, Dhruva Patil, Avijit Vajpayee, Zhu Liu, Vimal Bhat, Najmeh Sadoughi<br>
+		<b>Danyang Liu</b>, Fanjie Kong, Xiaohang Sun, Dhruva Patil, Zhu Liu, Vimal Bhat, Najmeh Sadoughi<br>
 		<br>
             
         </li>
