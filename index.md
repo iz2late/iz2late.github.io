@@ -5,10 +5,14 @@ layout: homepage
 ## About Me
 
 I am a Ph.D. student at the [UKRI CDT in NLP](https://nlp-cdt.ac.uk/) at [University of Edinburgh](https://www.ed.ac.uk/), advised by [Prof. Frank Keller](http://homepages.inf.ed.ac.uk/keller/) and [Prof. Mirella Lapata](https://homepages.inf.ed.ac.uk/mlap/). I am also a member of the [Edinburgh NLP](http://edinburghnlp.inf.ed.ac.uk/) of [School of Informatics](http://www.inf.ed.ac.uk/).
+I interned at [Amazon Prime Video](https://www.amazon.science/tag/amazon-prime-video) in 2024 and [Huawei Edinburgh Research Center](https://blogs.ed.ac.uk/he-lab/) in 2021.
 
-<!-- Before this I received my master's degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), advised by [Prof. Gongshen Liu](http://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=75). Prior to that, I got my bachelor degree from [Southeast University](https://www.seu.edu.cn/). -->
-My research interests lie at the intersection of language and vision. I am particularly passionate about controllable and explainable text generation that leverage visual input. By extending LLMs to process visual signals, I aim to bridge the gap between vision and language, contributing to the advancement of intelligent systems capable of seamlessly integrating text and imagery.
+My research interests lie at the intersection of language and vision, specifically on:
+- Controllable and visually-grounded text generation from visual input
+- Reasoning and distillation in large vision-language models (VLMs)
+- Understanding, generation, and evaluation of stories and narrative texts
 
+**Seeking postdoc or industry research roles in the UK for 2025. Please reach out with opportunities!**
 
 <!-- {% include_relative _includes/news.md %} -->
 

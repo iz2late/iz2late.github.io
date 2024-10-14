@@ -11,7 +11,7 @@
 
 <ul style="margin:0 0 20px;">
         <li style="line-height:25px">
-        	PhD, University of Edinburgh, Edinburgh, U.K. 2024 <i>(expected)</i><br> 
+        	PhD, University of Edinburgh, Edinburgh, U.K. 2025 <i>(expected)</i><br> 
         </li>
         <li style="line-height:25px">
         	Master, Shanghai Jiao Tong University, Shanghai, China. 2020<br>
