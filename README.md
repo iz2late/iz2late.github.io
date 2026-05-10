@@ -80,6 +80,36 @@ bundle exec jekyll server
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the html files in `_site` folder.
 
+### Using Locally on Windows
+
+This repository is a Jekyll/GitHub Pages site. On this Windows machine, Ruby is
+installed locally at:
+
+```powershell
+C:\Users\danya\tools\Ruby31-x64
+```
+
+Build the site:
+
+```powershell
+.\build-windows.ps1
+```
+
+Start a local preview server:
+
+```powershell
+.\serve-windows.ps1
+```
+
+Then open:
+
+```text
+http://127.0.0.1:4000
+```
+
+Most content edits are in `index.md` and `_includes/*.md`; layout/style edits
+are in `_layouts/`, `_sass/`, and `assets/css/`.
+
 ## Customizing
 
 ### Configuration variables

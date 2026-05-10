@@ -1,14 +1,17 @@
 # Basic Information 
 title: Danyang Liu
 titlecn: 刘丹阳
-position: Ph.D. Student
-affiliation: University of Edinburgh
+position: Research Scientist
+affiliation: Reka AI
+profile_lines:
+  - Research Scientist @ Reka AI
+  - Ph.D. @ University of Edinburgh
 email: danyang.liu (at) ed.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Danyang Liu, Edinburgh, NLP
-description: Danyang Liu is a PhD student at the university of Edinburgh working on NLP
+keywords: Danyang Liu, Reka AI, vision-language models, multimodal agents, visual story generation
+description: Danyang Liu is a Research Scientist at Reka AI working on vision-language models, multimodal agents, and grounded visual generation.
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
@@ -44,3 +47,10 @@ exclude:
   - README_de.md
   - LICENSE
   - minimal-light.gemspec
+  - .bundle
+  - vendor
+  - .jekyll-cache
+  - .sass-cache
+  - build-windows.ps1
+  - serve-windows.ps1
+  - "*.log"

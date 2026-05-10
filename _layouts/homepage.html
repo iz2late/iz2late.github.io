@@ -33,7 +33,7 @@
         
         {% if site.avatar %}
         <a class="image avatar">
-          <img src="{{ site.avatar }}" alt="avatar" style="width: 66%; height: auto; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+          <img src="{{ site.avatar }}" alt="avatar" style="width: 78%; max-width: 210px; height: auto; border-radius: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
         </a>
         {% endif %}
 
@@ -43,6 +43,15 @@
     padding: 0;
     line-height: 1.5em;
   }
+  .profile-lines {
+    margin: 0.15rem 0 0.35rem;
+    font-family: Crimson Pro;
+    font-size: 1.08rem;
+    line-height: 1.25;
+  }
+  .profile-line {
+    display: block;
+  }
 </style>
 <!--         <h1>{{ site.title }}</h1> -->
         <h1 style="font-family: Crimson Pro;">{{ site.title }}</h1>
@@ -50,6 +59,13 @@
 
 <!--         <h1 style="font-size:1.5rem; color:#036; font-family: Crimson Pro;">{{ site.titlecn }}</h1> -->
 
+        {% if site.profile_lines %}
+        <div class="profile-lines">
+          {% for line in site.profile_lines %}
+          <span class="profile-line">{{ line }}</span>
+          {% endfor %}
+        </div>
+        {% else %}
         {% if site.position %}
         <position style="font-size:1.10rem; font-family: Crimson Pro;">{{ site.position }}</position>
         <br>
@@ -57,6 +73,7 @@
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener" style="font-size:1.10rem; font-family: Crimson Pro;"><autocolor>{{ site.affiliation }}</autocolor></a>
         <br>
+        {% endif %}
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
@@ -111,7 +128,7 @@
     
         
       {% if site.enable_footnote %}
-      <p><small>Last updated in Oct, 2024.</small></p>
+      <p><small>Last updated in May, 2026.</small></p>
         <div class="hidden-widget">
           <a href="https://clustrmaps.com/site/1btzu" title="Visit tracker">
             <img src="//www.clustrmaps.com/map_v2.png?d=9jPLSDrR4wQOLTaiyIwzhQnkL0s0KEpb6tmi10ItmOQ&cl=ffffff" />
